@@ -45,6 +45,11 @@ For example, if jquery.awesomemenuscroll.js is located in a folder called 'js', 
 <script type="text/javascript" src="js/awesomemenuscroll.js"></script>
 ```
 
+## Live Demo 
+
+A working example of this plugin can be found on my own Portfolio website: http://www.kevinsleegers.nl.
+It has been slightly customized, but the main functionality is still there to look at :)
+
 ## Contributors
 
 At the moment, just me and a couple of friends who are kind enough to test my versions before I commit them to GitHub. :)
