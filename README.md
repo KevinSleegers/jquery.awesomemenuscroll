@@ -39,9 +39,11 @@ If you want to use this plugin you first need to have or download jQuery.
 Latest version can be downloaded here: http://code.jquery.com/jquery-latest.min.js
 
 It doesn't matter where you place jquery.awesomemenuscroll.js as long as your reference in your html is correct.
-For example, if jquery.awesomemenuscroll.js is located in a folder called 'js', the <script> tag in your html would look like this:
+For example, if jquery.awesomemenuscroll.js is located in a folder called 'js', your html reference would look like this:
 
+```html
 <script type="text/javascript" src="js/awesomemenuscroll.js"></script>
+```
 
 ## Contributors
 
