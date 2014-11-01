@@ -7,6 +7,7 @@ I'm contantly expanding the code so that it is more dynamic, and can be customiz
 
 ## Code Example
 
+```javascript
 $('body').awesomeMenuScroll({
 		item: '.left>ul li a',
 		active: 'active',
@@ -26,6 +27,7 @@ $('body').awesomeMenuScroll({
 			showInURL: should the anchor tag be shown in url? (default: 'false'); NOTE: THIS ONLY WORKS IF YOUR PREFIX IS AN ID (#)
 		*/
 	});
+```
 
 ## Motivation
 
